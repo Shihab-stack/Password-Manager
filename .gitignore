@@ -1,7 +1,4 @@
-.env
-.venv/
-.venv-1/
-venv/
 src.txt
 __pycache__/
-*.pyc
+.venv/
+.env
